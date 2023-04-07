@@ -3,6 +3,7 @@
 -- Module: Common
 -- Libraries, functions and classes used by various modules.
 --
+require "bit"
 local pairs = pairs
 local ipairs = ipairs
 local type = type
